@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UTV Stories</string>
+    <string name="loading_error">Не получилось загрузить новости</string>
+    <string name="update_button">Обновить</string>
+    <string name="browser_failure_message">Не удалось открыть браузер</string>
+</resources>
