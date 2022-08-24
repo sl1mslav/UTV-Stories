@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ShapeAppearanceOverlay.App.CornerSize25Percent" parent="">
+        <item name="cornerSizeTopLeft">17dp</item>
+        <item name="cornerSizeTopRight">17dp</item>
+    </style>
+</resources>
