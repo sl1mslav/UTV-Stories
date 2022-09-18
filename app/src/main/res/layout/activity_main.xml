@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    android:background="#CCC7C7"
+    android:background="#3BBDAA"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".presentation.MainActivity">
 
     <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
         android:id="@+id/swipe_refresher"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_width="0dp"
+        android:layout_height="0dp">
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/story_recycler"
@@ -19,6 +19,10 @@
             />
 
     </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
+    <com.example.utvstories.util.PinCodeView
+        android:layout_height="50dp"
+        android:layout_width="wrap_content" />
 
 
 </FrameLayout>

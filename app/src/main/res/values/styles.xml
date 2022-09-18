@@ -4,4 +4,11 @@
         <item name="cornerSizeTopLeft">17dp</item>
         <item name="cornerSizeTopRight">17dp</item>
     </style>
+
+    <style name="PinEditText" parent="Widget.AppCompat.EditText">
+        <item name="android:background">@drawable/pin_back_circle</item>
+    </style>
+    <style name="PinEditText.WrongPin">
+
+    </style>
 </resources>
