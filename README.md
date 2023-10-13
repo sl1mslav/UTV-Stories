@@ -11,8 +11,9 @@ Application for viewing uTV stories and news, designed with a single screen and 
 - Architecture
   - Clean Architecture
   - MVVM
-Material Design 3 - the latest version of Material Design includes personalization and accessibility features that put people at the center.
-- [Retrofit](https://github.com/square/retrofit) - construct the REST APIs and network data.
+- Theming
+  - Material Design 3 - the latest version of Material Design includes personalization and accessibility features that put people at the center.
+- [Retrofit](https://github.com/square/retrofit) - construct REST APIs and operate safely with network data.
 # Screenshots
 ![image](https://user-images.githubusercontent.com/62217711/186351784-2c4c5d3b-c66c-408a-8c3b-dbeb2b6d9204.png)
 ![image](https://user-images.githubusercontent.com/62217711/186351858-1ca01300-1d6b-46c1-8b67-bc186feb84b7.png)
